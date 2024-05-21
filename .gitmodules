@@ -1,0 +1,3 @@
+[submodule "ITs-community"]
+	path = ITs-community
+	url = https://github.com/rainbow96bear/ITs-community.git
